@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Pranjal Bandwal
+### MCA Student
+🌱 I’m currently learning Python for Data Science
+📫 How to reach me: 
+    mailto-bandwal9@gmail.com
+    linkedin-www.linkedin.com/in/pranjalbandwal/
+📍India
 
 
 [![@pranjalbandwal's Holopin board](https://holopin.me/pranjalbandwal)](https://holopin.io/@pranjalbandwal)

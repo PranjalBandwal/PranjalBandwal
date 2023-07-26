@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Pranjal Bandwal
 ### MCA Student
-🌱 I’m currently learning Python for Data Science
+🌱 I’m a Data Science Intern at Oasis Infobyte
 📫 How to reach me: 
     mailto-bandwal9@gmail.com
-    linkedin-www.linkedin.com/in/pranjalbandwal/
+    LinkedInn-www.linkedin.com/in/pranjalbandwal/
 📍India
 
 

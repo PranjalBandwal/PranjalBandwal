@@ -1,9 +1,10 @@
 ### Hi there 👋 I am Pranjal Bandwal
-### MCA Student
-🌱 I’m a Data Science Intern at Oasis Infobyte
+### MCA Final Year Student
+🌱 Data Science Intern at Oasis Infobyte
 📫 How to reach me: 
     mailto-bandwal9@gmail.com
     LinkedInn-www.linkedin.com/in/pranjalbandwal/
+    youtube-https://www.youtube.com/@pranjal22/videos
 📍India
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pranjal Bandwal
 ### MCA Final Year Student
-🌱 Data Science Intern at Oasis Infobyte
+🌱 Data Science Intern at Microsoft Future Ready Talent
 📫 How to reach me: 
     mailto-bandwal9@gmail.com
     LinkedInn-www.linkedin.com/in/pranjalbandwal/

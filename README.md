@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Pranjal Bandwal
-### MCA Final Year Student
-🌱 Data Science Intern at Microsoft Future Ready Talent
+### My Experties are in React specifically in Mobile Applications
+🌱 previously i was Data Science intern at Microsoft Future Ready Talent
+👯 I’m looking to collaborate on React Projects, feel free to reach me.
 📫 How to reach me: 
     mailto-bandwal9@gmail.com
     LinkedInn-www.linkedin.com/in/pranjalbandwal/
     youtube-https://www.youtube.com/@pranjal22/videos
 📍India
-
 
 [![@pranjalbandwal's Holopin board](https://holopin.me/pranjalbandwal)](https://holopin.io/@pranjalbandwal)
 
